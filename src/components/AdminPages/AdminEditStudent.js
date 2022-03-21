@@ -52,7 +52,6 @@ const App = () => {
   }
     return (
         <header style={ headerStyle }>
-            {/* {data}; */}
          <div className="text-center">
             {/* <h1 className="main-title home-page-title">Boxing Academy</h1> */}
             <Link to="/AdminAcademy">
